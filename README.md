@@ -1,6 +1,7 @@
 # DSmovie
 
 <p>
+  <img src="https://img.shields.io/badge/made%20by-John%20Denys%20Soares-793ef9?style=flat-square">
   <img alt="GitHub language count" src="https://user-images.githubusercontent.com/105563572/216619749-510f88a3-8c96-4816-9ff5-e0fafe85ed4b.svg">
   <img alt="GitHub Top Language" src="https://user-images.githubusercontent.com/105563572/216620555-a3cee9f6-5f1f-48b7-9c0a-35140a413dbb.svg">
   <a href="https://opensource.org/licenses/MIT">
@@ -112,5 +113,4 @@ Feito com :purple_heart: by [John Denys Soares](https://github.com/johndj68)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-John%20Denys%20Soares-793ef9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-denys/)](https://www.linkedin.com/in/john-denys/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-johndev0122@gmail.com-793ef9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johndev0122@gmail.com)](mailto:johndev0122@gmail.com)
